@@ -53,7 +53,7 @@ Total parameters: 110,982
 
 ## Repository Contents
 
-- `CNN_23_50641.ipynb`: Complete implementation, execution outputs, and visualizations.
+- `CNN_23_50641_1.ipynb`: Complete implementation, execution outputs, and visualizations.
 - `intel_custom_cnn.pth`: Trained model checkpoint.
 
 ## How to Load the Model
